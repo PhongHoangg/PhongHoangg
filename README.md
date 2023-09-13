@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently studying Math and Data Science @ Denison University
+📫 How to reach me: hoang_p3@denison.edu
+
 <!--
 **PhongHoangg/PhongHoangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
